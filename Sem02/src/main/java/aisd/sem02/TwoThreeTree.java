@@ -42,6 +42,10 @@ public class TwoThreeTree {
         return size;
     }
 
+    public TreeNode getRoot() {
+        return root;
+    }
+
     private static class InsertResult {
         TreeNode newNode;
         boolean inserted;
