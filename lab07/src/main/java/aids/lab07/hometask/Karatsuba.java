@@ -6,7 +6,7 @@ public class Karatsuba {
         String a = "1101"; // 13
         String b = "1010"; // 10
         String result = multiply(a, b);
-        System.out.println("Result: " + result); // 10000010 (130)
+        System.out.println("Result: " + result); // 1000001013 = 130
     }
 
     public static String multiply(String a, String b) {
