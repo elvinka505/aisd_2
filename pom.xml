@@ -21,6 +21,7 @@
         <module>lab08</module>
         <module>lab09</module>
         <module>lab_task</module>
+        <module>lab_task2</module>
     </modules>
 
     <properties>
